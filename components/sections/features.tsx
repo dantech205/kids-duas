@@ -103,7 +103,7 @@ export default function Features() {
           <div className="mt-16 rounded-2xl overflow-hidden shadow-lg border-4 border-primary/20 bg-black aspect-video">
             <iframe
               className="w-full h-full"
-              src="https://www.youtube.com/embed/978rC_OcOhU"
+              src="https://www.youtube.com/embed/laazRwxSVWY"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
