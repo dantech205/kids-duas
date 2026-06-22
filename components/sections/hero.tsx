@@ -75,7 +75,7 @@ export default function HeroSection() {
               <iframe
                 width="100%"
                 height="100%"
-                src="https://www.youtube.com/embed/laazRwxSVWY?rel=0&modestbranding=1&color=white&fs=0"
+                src="https://www.youtube.com/embed/V7l3U5LDHk8?rel=0&modestbranding=1&color=white&fs=0"
                 title=""
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
