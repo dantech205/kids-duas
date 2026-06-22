@@ -49,7 +49,7 @@ export default function HeroSection() {
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-8">
-              <a href="https://youtube.com/@kiddualove" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.youtube.com/watch?v=vOHrZ76S7Sg" target="_blank" rel="noopener noreferrer">
                 <Button
                   size="lg"
                   className="bg-primary hover:bg-primary/90 text-white rounded-full px-8 text-base font-semibold"
@@ -75,7 +75,7 @@ export default function HeroSection() {
               <iframe
                 width="100%"
                 height="100%"
-                src="https://www.youtube.com/embed/CTGIkgFUHyg?rel=0&modestbranding=1&color=white&fs=0"
+                src="https://www.youtube.com/embed/V7l3U5LDHk8?rel=0&modestbranding=1&color=white&fs=0"
                 title=""
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
