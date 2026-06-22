@@ -27,9 +27,9 @@ export default function Navbar() {
             <Image
               src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KID%20DUA%20LOVE%20official%20logo.PNG-7Olu6otpa5NzoZJy7p5I7RIL0eXPZ7.png"
               alt="Kid Dua Love Logo"
-              width={40}
-              height={40}
-              className="h-10 w-auto"
+              width={56}
+              height={56}
+              className="h-14 w-auto"
               priority
             />
           </Link>

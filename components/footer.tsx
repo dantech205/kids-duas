@@ -13,12 +13,12 @@ export default function Footer() {
           <div>
             <Link href="/" className="inline-block mb-4 hover:opacity-80 transition">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KID%20DUA%20LOVE%20official%20logo.PNG-7Olu6otpa5NzoZJy7p5I7RIL0eXPZ7.png"
-                alt="Kid Dua Love Logo"
-                width={50}
-                height={50}
-                className="h-12 w-auto"
-              />
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KID%20DUA%20LOVE%20official%20logo.PNG-7Olu6otpa5NzoZJy7p5I7RIL0eXPZ7.png"
+                  alt="Kid Dua Love Logo"
+                  width={64}
+                  height={64}
+                  className="h-16 w-auto"
+                />
             </Link>
             <p className="text-foreground/70">
               Trusted, human-led Islamic learning for children.
