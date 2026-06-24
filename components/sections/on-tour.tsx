@@ -88,7 +88,7 @@ export default function OnTour() {
 
           {/* CTA Button */}
           <div className="flex justify-center">
-            <a href="mailto:salam@kiddualove.com">
+            <a href="#contact">
               <Button
                 size="lg"
                 className="bg-secondary hover:bg-secondary/90 text-white rounded-full px-8 text-base font-semibold"
