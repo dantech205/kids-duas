@@ -66,7 +66,7 @@ export default function OnTour() {
               >
                 <Image
                   src={index === 0 
-                    ? 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/206097-pmnoHVM35aTIS3lxXma7qrOCy7M9uh.webp'
+                    ? '/classroom.jpeg'
                     : index === 1
                     ? 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gemini_Generated_Image_4bjen04bjen04bje-5y8WB5QEKXlcjwde6WaQJtnVC23XcV.webp'
                     : index === 2
