@@ -70,7 +70,7 @@ export default function OnTour() {
                     : index === 1
                     ? '/classroom.jpeg'
                     : index === 2
-                    ? '/community.jpeg'
+                    ? '/learning.jpeg'
                     : '/ki duas.jpeg'
                   }
                   alt={item.alt}
