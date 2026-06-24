@@ -2,14 +2,10 @@
 
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 
 export default function HeroSection() {
-  const [isVisible, setIsVisible] = useState(false)
-
-  useEffect(() => {
-    setIsVisible(true)
-  }, [])
+  const [isVisible, setIsVisible] = useState(true)
 
   return (
     <section
