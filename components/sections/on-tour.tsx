@@ -71,7 +71,7 @@ export default function OnTour() {
                     ? '/classroom.jpeg'
                     : index === 2
                     ? '/ki duas.jpeg'
-                    : 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/23673094_6808792-Wkosn2PXxc1GTae6DupSImpkrqSuFA.webp'
+                    : '/community.jpeg'
                   }
                   alt={item.alt}
                   fill
