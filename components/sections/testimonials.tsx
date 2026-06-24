@@ -6,20 +6,44 @@ import { Star } from 'lucide-react'
 const testimonials = [
   {
     id: 1,
-    name: 'Parent Name',
-    quote: 'Kid Dua Love has transformed the way my children think about Islam. The content is engaging and the values are crystal clear.',
+    name: 'Mariam, Nigeria',
+    quote: "Can't love this channel less. Alhamdullilah, may Almighty Allah keep strengthening the anchors of this program.",
     rating: 5,
   },
   {
     id: 2,
-    name: 'Parent Name',
-    quote: 'We love that the learning goes beyond screens. The Ihsan Jar has become part of our daily family routine, and my kids are so excited about their good deeds.',
+    name: 'Rodhiya, Canada',
+    quote: "The kids love this song so much! They sing it randomly now.",
     rating: 5,
   },
   {
     id: 3,
-    name: 'Parent Name',
-    quote: 'As an educator, I appreciate the thoughtful approach to Islamic learning. Kid Dua Love truly makes a difference in children&apos;s lives.',
+    name: 'Amal, UAE',
+    quote: "My 4-year old son absolutely loves KDL and he can't wait to meet Mama Zee!",
+    rating: 5,
+  },
+  {
+    id: 4,
+    name: 'Abdul, England',
+    quote: "This is different and I love that Kid Dua Love is providing fresh content for Muslims across the world. I enjoy watching with my daughter.",
+    rating: 5,
+  },
+  {
+    id: 5,
+    name: 'Olamide, Nigeria',
+    quote: "It's not just for the kids… even I find myself learning one or two things from the show.",
+    rating: 5,
+  },
+  {
+    id: 6,
+    name: 'Haleemah, Nigeria',
+    quote: "The presenter looks so warm and makes the show much more engaging. The topics are also easy to understand",
+    rating: 5,
+  },
+  {
+    id: 7,
+    name: 'Ms. Zainab, Nigeria',
+    quote: "Kid Dua Love is a timeless program for kids and even adults. We love the colors and how the little pictures pop up when she's talking about something. Allahumma barik.",
     rating: 5,
   },
 ]

@@ -43,7 +43,7 @@ export default function IhsanJar() {
             <div className={`order-2 lg:order-1 ${isVisible ? 'animate-slideInLeft' : 'opacity-0'}`}>
               <div className="relative aspect-square rounded-2xl overflow-hidden shadow-2xl bg-gray-200 flex items-center justify-center border-4 border-primary/20 hover:shadow-3xl transition-all duration-300 transform hover:scale-105">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/9182025_45745-NyUr3FbP00VJaXjZcY5aSOz7SASyNH.webp"
+                  src="/Ihsan%20Jar.jpeg"
                   alt="The Ihsan Jar - Good deeds jar for children with rainbow"
                   fill
                   className="object-cover hover:scale-110 transition-transform duration-500"
