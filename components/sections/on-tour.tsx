@@ -70,7 +70,7 @@ export default function OnTour() {
                     : index === 1
                     ? '/classroom.jpeg'
                     : index === 2
-                    ? 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1565-RswckQUMl0WmySnS0UC6PPR1OwPcmi.webp'
+                    ? '/ki duas.jpeg'
                     : 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/23673094_6808792-Wkosn2PXxc1GTae6DupSImpkrqSuFA.webp'
                   }
                   alt={item.alt}
