@@ -68,7 +68,7 @@ export default function OnTour() {
                   src={index === 0 
                     ? '/classroom.jpeg'
                     : index === 1
-                    ? 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gemini_Generated_Image_4bjen04bjen04bje-5y8WB5QEKXlcjwde6WaQJtnVC23XcV.webp'
+                    ? '/interativelearning.jpeg'
                     : index === 2
                     ? 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1565-RswckQUMl0WmySnS0UC6PPR1OwPcmi.webp'
                     : 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/23673094_6808792-Wkosn2PXxc1GTae6DupSImpkrqSuFA.webp'
