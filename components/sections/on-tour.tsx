@@ -70,11 +70,12 @@ export default function OnTour() {
                     : index === 1
                     ? '/classroom.jpeg'
                     : index === 2
-                    ? '/learning.jpeg'
+                    ? '/learning.webp'
                     : '/ki duas.jpeg'
                   }
                   alt={item.alt}
                   fill
+                  loading="eager"
                   className="object-cover hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-4">
