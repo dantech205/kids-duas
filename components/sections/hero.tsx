@@ -23,7 +23,7 @@ export default function HeroSection() {
       {/* Hero Image Background */}
       <div className="absolute inset-0 opacity-40">
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/kid2-cdmMvuBL8qneXWXecPfXe2aKdgQdjx.jpeg"
+          src="/school.jpeg"
           alt="Kid Dua Love - Happy child making heart gesture"
           fill
           className="object-cover"
@@ -49,7 +49,7 @@ export default function HeroSection() {
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-8">
-              <a href="https://www.youtube.com/watch?v=vOHrZ76S7Sg" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.youtube.com/@kiddualove" target="_blank" rel="noopener noreferrer">
                 <Button
                   size="lg"
                   className="bg-primary hover:bg-primary/90 text-white rounded-full px-8 text-base font-semibold"
