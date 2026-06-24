@@ -19,7 +19,7 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <nav className="sticky top-0 z-50 w-full border-b border-border bg-white/95 backdrop-blur">
+    <nav className="sticky top-0 z-50 w-full border-b border-border/20 bg-transparent backdrop-blur">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
@@ -68,7 +68,7 @@ export default function Navbar() {
 
         {/* Mobile Navigation */}
         {isOpen && (
-          <div className="md:hidden border-t border-border bg-white py-4 px-4 space-y-3">
+          <div className="md:hidden border-t border-border/20 bg-white/10 backdrop-blur py-4 px-4 space-y-3">
             <NavLink href="#home" label="Home" />
             <NavLink href="#what-we-do" label="What We Do" />
             <NavLink href="#our-story" label="Our Story" />
