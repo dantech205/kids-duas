@@ -9,7 +9,7 @@ import { Button } from '@/components/ui/button'
 const NavLink = ({ href, label }: { href: string; label: string }) => (
   <a
     href={href}
-    className="text-sm font-medium text-foreground transition hover:text-primary"
+    className="text-lg font-bold text-foreground transition hover:text-primary"
   >
     {label}
   </a>
